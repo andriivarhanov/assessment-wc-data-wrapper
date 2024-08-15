@@ -1,5 +1,5 @@
 {
-  "name": "nextjs",
+  "name": "assessment-wc-data-wrapper",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@stencil/react-output-target": "^0.5.3",
+    "algoliasearch": "^4.24.0",
     "cm-assessment": "^0.0.1",
     "graphql-request": "^7.1.0",
     "next": "14.2.5",
